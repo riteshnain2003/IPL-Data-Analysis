@@ -1,0 +1,10 @@
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+* Optionaly:-use anaconda(it contain many things which are downloaded already not required to !pip install something)
+

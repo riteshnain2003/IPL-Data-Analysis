@@ -1,0 +1,14 @@
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- streamlit
+
+
+
+* Optionaly:-use anaconda(it contain many things which are downloaded already)
+

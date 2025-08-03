@@ -1,8 +1,16 @@
 📊 IPL Data Analysis Project
 
 
+
+
+
+
 🏏 Overview
 This project presents an in-depth analysis of IPL (Indian Premier League) cricket data to extract meaningful team-level, player-level, and match-level insights. The project uses Python with data analysis and visualization libraries to explore trends, performance metrics, and hidden patterns in the dataset.
+
+
+
+
 
 
 🎯 Objectives
@@ -13,6 +21,12 @@ Analyze win/loss trends across seasons and venues.
 Visualize top performers and match dynamics using plots.
 
 Practice data cleaning, manipulation, and storytelling with data.
+
+
+
+
+
+
 
 
 
@@ -40,6 +54,11 @@ Contains match-level and ball-by-ball data from multiple IPL seasons.
 
 
 
+
+
+
+
+
 🔍 Insights Covered
 
 🔹 A. Team-Level Insights
@@ -56,6 +75,9 @@ Best performing team when batting first vs chasing
 Top performing team season-wise
 
 Venue-wise win distribution
+
+
+
 
 
 🔹 B. Player-Level Insights
@@ -82,6 +104,13 @@ Highest & lowest team scores
 Super Over match count
 
 Venues with highest win % for specific teams
+
+
+
+
+
+
+
 
 
 📈 Visualizations

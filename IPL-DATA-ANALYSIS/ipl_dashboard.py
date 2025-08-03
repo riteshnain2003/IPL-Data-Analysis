@@ -60,3 +60,11 @@ with col2:
         st.image(image_path, use_container_width=True)
     else:
         st.error("🚫 Plot not found. Please check the file path.")
+
+
+
+
+st.write("Current working directory:", os.getcwd())
+st.write("Available files in folder:", os.listdir(os.path.dirname(image_path)))
+st.write("Looking for:", image_path)
+

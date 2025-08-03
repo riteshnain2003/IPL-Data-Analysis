@@ -29,8 +29,8 @@ match_queries = {
     "Average runs scored per match / per over": "match_insights/plots/avg_run_per_match.jpg",
     "Total matches per season": "match_insights/plots/total_matches_per_season.jpg",
     "Highest and lowest team scores": "match_insights/plots/high_low_score.jpg",
-    "Super over matches count": "match_insights/plots/Super_over_%.jpg",
-    "Venues with highest win % for specific teams": "match_insights/plots/Venues_with_highest_win%.jpg"
+    "Super over matches count": "match_insights/plots/Super_over.jpg",
+    "Venues with highest win % for specific teams": "match_insights/plots/Venues_with_highest_win.jpg"
 }
 
 # 🎛 Sidebar

@@ -1,5 +1,11 @@
 import streamlit as st
 import os
+st.set_page_config(page_title="IPL Dashboard", layout="wide")
+
+# Add your name and heading
+st.markdown("<h1 style='text-align: center; color: #4CAF50;'>IPL Data Analysis Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center; color: gray;'>Created by Ritesh Nain</h4>", unsafe_allow_html=True)
+st.markdown("---")
 
 # Make sure working dir is the script's folder
 os.chdir(os.path.dirname(os.path.abspath(__file__)))

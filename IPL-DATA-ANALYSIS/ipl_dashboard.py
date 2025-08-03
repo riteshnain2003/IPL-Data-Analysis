@@ -1,6 +1,11 @@
 import streamlit as st
 import os
 
+# Ensure we are running from the correct directory
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+
 st.set_page_config(page_title="IPL Dashboard", layout="wide")
 
 st.title("🏏 IPL Data Analysis Dashboard")

@@ -17,7 +17,7 @@ st.markdown("Select an insight and view its visualization")
 # Define relative paths (without drive letters)
 team_queries = {
     "Which team has won the most matches?": "team_insights/plots/wining_count.jpg",
-    "Which team has the best win percentage?": "team_insights/plots/winning_percentage_plot.png",
+    "Which team has the best win percentage?": "team_insights/plots/winning_percentage_plot.jpg",
     "Which team wins the most tosses?": "team_insights/plots/pietosswinner.jpg",
     "How often does toss winner = match winner?": "team_insights/plots/pietosswinner.jpg",
     "Which team performs best when batting first vs chasing?": "team_insights/plots/batVSchasing.jpg",
